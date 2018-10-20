@@ -103,28 +103,19 @@ analytics:
 author:
   name             : "김도경(Dokyoung Kim)"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an AI researcher whose major is pure mathematics."
+  bio              : "저는 비디오 인공지능 스타트업 비닷두(V.DO)에 AI 연구원으로 근무하고 있고, 포항공대(Postech)에서 대수기하 및 정수론으로 순수수학 박사학위(Ph.D)를 취득한 수학 애호가입니다."
   location         : "수원"
   email            : "dkkim.math@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:dkkim.math@gmail.com
-    - label: "Website"
+    - label: "비닷두(V.DO) 홈페이지"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://www.vdotdo.ai/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://facebook.com/dokyoung.kim.94"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      # url: "https://github.com/bigh2000"
 
 # Site Footer
 footer:
@@ -203,7 +194,7 @@ kramdown:
   entity_output: as_char
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
+  enable_coderay: true
 
 
 # Sass/SCSS
