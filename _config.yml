@@ -195,6 +195,8 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: true
+    coderay_line_numbers: table
+    coderay_css: class
 
 
 # Sass/SCSS
